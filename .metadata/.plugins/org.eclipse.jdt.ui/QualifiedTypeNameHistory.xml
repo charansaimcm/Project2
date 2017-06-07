@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.niit.BE.model.UserBlog"/>
+<fullyQualifiedTypeName name="com.niit.BE.model.UserProfile"/>
+<fullyQualifiedTypeName name="com.niit.BE.model.ForumCategory"/>
+<fullyQualifiedTypeName name="com.niit.BE.model.UserForum"/>
+<fullyQualifiedTypeName name="com.niit.BE.model.UserForumComments"/>
+<fullyQualifiedTypeName name="com.niit.BE.model.Friends"/>
+<fullyQualifiedTypeName name="com.niit.BE.model.Job"/>
+<fullyQualifiedTypeName name="com.niit.BE.model.JobApplication"/>
+<fullyQualifiedTypeName name="org.apache.commons.dbcp2.BasicDataSource"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+</qualifiedTypeNameHistroy>

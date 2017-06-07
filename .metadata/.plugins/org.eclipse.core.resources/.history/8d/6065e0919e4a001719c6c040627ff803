@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+
+<body>
+
+	<div class="navbar navbar-inverse navbar-fixed-top headroom">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse"
+					data-target=".navbar-collapse">
+					<span class="icon-bar"></span> <span class="icon-bar"></span> <span
+						class="icon-bar"></span>
+				</button>
+				<div class="navbar-brand">      
+  <img src="resources/assets/images/Logo.jpg" class="img-circle" > 
+</div>
+				<!-- <a class="navbar-brand" href="index.jsp"><img
+					src="resources/assets/images/Logo.jpg"
+					alt="Freunde"></a> -->
+		</div>			
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav pull-right">
+					<li class="active"><a href="#"><span class="glyphicon glyphicon-home"></span>Home</a></li>
+					<li><a href="#/viewblogs"><span class="glyphicon glyphicon-file"></span>Blogs</a></li>
+					<li><a href="#/viewforums"><span class="glyphicon glyphicon-comment"></span>View Forums</a></li>
+					<li><a href="#/login"><span class="glyphicon glyphicon-log-in"></span>SIGN IN</a></li>
+					<li><a href="#/userprofile"><span class="glyphicon glyphicon-edit"></span>Register</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+		
+   
+
+
+
+<nav class="navbar navbar-inverse navbar-fixed-bottom ">
+  <div class="container-fluid">
+    <div class="navbar-footer">
+      <a class="navbar-text"> <div ng-include="'v_common/footer.html'"> </div>
+        </a>
+        </div>
+        </div>
+        </nav> 
+        
+					<div class="har">HELLOKNKF</div>
+</body>
+</html>

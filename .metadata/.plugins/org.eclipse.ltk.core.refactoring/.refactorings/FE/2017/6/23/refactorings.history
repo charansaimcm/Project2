@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;FE/src/main/webapp/v_common/footer.jsp&apos; to &apos;footer.html&apos;" description="Rename resource &apos;footer.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/v_common/footer.jsp" name="footer.html" stamp="1496652986599" updateReferences="true"/>
+</session>

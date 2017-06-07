@@ -1,0 +1,23 @@
+<!-- FOOTER -->
+<footer>
+    <!-- <p class="pull-right"> -->
+
+    <p>&copy; 2017Freunde Company, Inc.     Follow us on:  <a style="padding-left:10px;" href='www.facebook.com'><i class="fa fa-facebook"></i> </a>     
+        <a style="padding-left:10px;" href='www.google.com'><i class="fa fa-google"></i> </a>
+        <a style="padding-left:10px;" href='www.instagram.com'><i class="fa fa-instagram"></i> </a>
+        <a style="padding-left:10px;" href='www.twitter.com'><i class="fa fa-twitter"></i> </a>
+        <a style="padding-left:10px;" href='www.youtube.com'><i class="fa fa-youtube"></i></a>
+       
+       
+    
+    
+</footer>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<%--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>--%>
+<%--<script>window.jQuery ||--%>
+<%--document.write('<script src="<c:url value="/resources/js/jquery-1.11.3.min.js" />"><\/script>')</script>--%>
+<script src="<c:url value="/resources/js/bootstrap.min.js" /> " />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
